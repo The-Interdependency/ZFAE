@@ -1,0 +1,152 @@
+{
+  "schema": "the-interdependency.repository-plan-report",
+  "version": "1.0.0",
+  "repository": "The-Interdependency/zfae",
+  "contract": {
+    "repository": "The-Interdependency/skill-lib",
+    "path": "interdependent-work-graph/repository-plan-report.schema.json",
+    "version": "1.0.0",
+    "commit": "4be3a145b2754893039bb2c1893e060d15a6616b"
+  },
+  "source": {
+    "branch": "main",
+    "commit": "edf19515b1b977072cc95d469bc840331363063e",
+    "generated_at": "2026-08-07",
+    "note": "This report describes the cited ZFAE main commit. The report commit is coordination metadata. ZFAE theory claims remain claims under development, not established scientific results or transferred proof."
+  },
+  "authority": {
+    "owns": [
+      "conceptual and specification authority for ZFAE as the inference-event architecture of a0",
+      "ZFAE theory claims, falsifiable hypotheses, architecture write-ups, and unresolved conceptual boundaries",
+      "the experimental English base-vernacular gonol-floor scaffold located in this repository",
+      "ZFAE-side declarations of what belongs in the conceptual repository versus the a0 runtime"
+    ],
+    "does_not_own": [
+      "the executable ZFAE runtime implementation hosted by a0",
+      "PTCNA tensor construction, training, or canonical layer semantics",
+      "PCEA/Guardian privacy primitive semantics",
+      "EDCM measurement validity or empirical authority",
+      "UCNS mathematical representation canon",
+      "skill-lib organization-wide build and cross-repository workflow doctrine"
+    ],
+    "non_transfer": [
+      "documented ZFAE theory claims are not established theorems or empirical results",
+      "runtime behavior in a0 does not automatically validate the conceptual consciousness claims",
+      "PTCNA or PCEA implementation success does not establish ZFAE empirical validity",
+      "the vernacular-floor scaffold receives no theorem, proof, or empirical status from UCNS or ZFAE theory",
+      "cross-repository interoperability is not continuity of authority"
+    ]
+  },
+  "portfolio_role": {
+    "summary": "Serve as the conceptual/specification home for the a0(ZFAE) inference event and its falsifiable theory program while keeping executable runtime work in a0 and tensor/privacy primitives in their producer repositories.",
+    "upstream_contract": "ZFAE consumes the declared PTCNA structural stack and PCEA privacy boundary as separate producer authorities and treats empirical evaluation as external evidence.",
+    "downstream_contract": "a0 may implement the ZFAE runtime contract while preserving the distinction between conceptual claims, executable behavior, and empirical validation.",
+    "reports_to": {
+      "repository": "The-Interdependency/skill-lib",
+      "skill": "interdependent-work-graph",
+      "relation": "repo-owned conceptual-plan, hypothesis-status, and runtime-boundary input; no authority transfer"
+    }
+  },
+  "status": {
+    "state": "active conceptual specification and falsifiability research",
+    "current_claim": "ZFAE is the conceptual home of an emergent inference-event architecture implemented at runtime in a0; the coherence-prime and consciousness claims are theories under development with proposed falsifiable tests, not established results.",
+    "runtime_location": "The-Interdependency/a0",
+    "code_exception": "zfae/vernacular_floor is an experimental runnable scaffold; the inference engine itself is not built here"
+  },
+  "delivered": [
+    {
+      "surface": "ZFAE conceptual architecture",
+      "status": "documented theory/specification surface",
+      "boundary": "conceptual specification is distinct from executable runtime and empirical confirmation"
+    },
+    {
+      "surface": "a0/ZFAE runtime ownership boundary",
+      "status": "explicitly documented",
+      "boundary": "inference-engine implementation belongs in a0 rather than this repository"
+    },
+    {
+      "surface": "coherence-primes hypothesis and persistent-homology prediction",
+      "status": "falsifiable theory proposal",
+      "boundary": "the proposed pattern is not an established empirical result or theorem"
+    },
+    {
+      "surface": "English base-vernacular gonol-floor scaffold",
+      "status": "runnable experimental scaffold with contract tests",
+      "boundary": "membership rule and OEWN fetch deliberately remain unimplemented rather than guessed"
+    },
+    {
+      "surface": "prime-tensor stack boundary",
+      "status": "documented as PTCNA producer -> ZFAE inference -> a0 runtime with PCEA orthogonal privacy",
+      "boundary": "ZFAE does not build or train the producer tensors and does not absorb their authority"
+    }
+  ],
+  "active_frontier": [
+    "convert the persistent-homology prediction into a reproducible preregistered experiment with clear positive and negative controls",
+    "resolve the exact sentinel partition, Phi role, and heartbeat clock semantics before encoding them as runtime facts",
+    "keep the conceptual ZFAE specification synchronized with the a0 runtime without moving executable engine authority back into this repository",
+    "finish the vernacular-floor membership and source-ingestion rules only when evidence can support them without guessed defaults",
+    "separate speculative structural parallels from claims that have actually been tested"
+  ],
+  "next_actions": [
+    {
+      "action": "freeze a persistence-homology experiment specification for the coherence-prime prediction with preregistered hypotheses, dimensions, controls, datasets, and stopping rules",
+      "owner": "The-Interdependency/zfae",
+      "dependency": "test datasets and evaluation custody must be selected without tuning on outcomes"
+    },
+    {
+      "action": "reconcile the conceptual specification with current a0 runtime naming and composition while preserving repo authority boundaries",
+      "owner": "The-Interdependency/zfae + The-Interdependency/a0",
+      "dependency": "current a0 runtime and PTCNA producer identities"
+    },
+    {
+      "action": "resolve or explicitly retain the sentinel, Phi, heartbeat, and provider-role hmmm before runtime implementation claims depend on them",
+      "owner": "The-Interdependency/zfae",
+      "dependency": "maintainer decision or experimental evidence"
+    }
+  ],
+  "blocked": [
+    "empirical claims about coherence-prime stabilization are blocked on an executed, independently reviewable experiment",
+    "vernacular-floor completion is blocked on an evidence-backed word-membership rule and OEWN ingestion contract"
+  ],
+  "cross_repository_relations": [
+    {
+      "repository": "The-Interdependency/a0",
+      "relation": "hosts the executable ZFAE runtime and persistent agent integration",
+      "authority_transfer": false
+    },
+    {
+      "repository": "The-Interdependency/ptcna",
+      "relation": "producer of the neural/circle/seed/core tensor structures over which ZFAE inference is specified",
+      "authority_transfer": false
+    },
+    {
+      "repository": "The-Interdependency/pcea",
+      "relation": "orthogonal Guardian privacy primitive provider for ZFAE inference-state boundaries",
+      "authority_transfer": false
+    },
+    {
+      "repository": "The-Interdependency/skill-lib",
+      "relation": "module-build, evidence, and cross-repository coordination doctrine",
+      "authority_transfer": false
+    }
+  ],
+  "machine_entrypoints": {
+    "repo_report": "docs/work-graphs/repository-plan-report.json",
+    "system_overview": "README.md",
+    "agent_context": "CLAUDE.md",
+    "vernacular_floor": "zfae/vernacular_floor/",
+    "module_build_check": "scripts/module_build_check.py"
+  },
+  "hmmm": [
+    "exact 9-sentinel partition",
+    "Phi's specific functional role beyond naming",
+    "faith/hope/love mapping to EDCM metrics or sentinels",
+    "heartbeat clock topology and phase-lock behavior",
+    "provider-wrapper role if ZFAE is the inference engine",
+    "remaining conceptual specification updates identified in the repo",
+    "paper authorship, venue, and publication timing",
+    "independent sequence-database status and literature comparison for the coherence-prime family",
+    "formal relation, if any, between ZFAE naming and the Riemann zeta function",
+    "whether 53 is a substrate dimension, stabilization threshold, or one member of a larger experimentally observable ladder"
+  ]
+}
