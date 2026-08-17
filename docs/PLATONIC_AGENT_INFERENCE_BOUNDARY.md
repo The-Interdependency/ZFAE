@@ -12,7 +12,7 @@ Pinned work-graph digest:
 
 ## Ownership
 
-The **Platonic Agent** is owned by a0 agent architecture as the open maximal envelope from which bounded agent definitions and instances may be projected.
+The **Platonic Agent** is owned by a0 agent architecture as the open maximal object from which bounded agent definitions and instances may be projected.
 
 ZFAE owns a narrower question:
 
@@ -23,7 +23,7 @@ That question belongs here because this repository is the conceptual/specificati
 ## Required distinctions
 
 ```text
-Platonic Agent                 maximal open agent envelope — a0
+Platonic Agent                 maximal open agent object — a0
     |
     +-- identity               not supplied by inference alone
     +-- memory                 not supplied by inference alone
