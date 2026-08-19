@@ -12,7 +12,7 @@ Installed skills:
 - `meta-module-build/` — metadata-first module scaffolding
 - `ratios/` — module composition ratios (single-line `ratios:` seal)
 
-Source commit: `The-Interdependency/skill-lib` @ `289d495`. The `ratios/` skill
+Source commit: `The-Interdependency/skill-lib` @ `a0cb6285e37734609b4b487ae4a2e44c6108d2b8`. The `ratios/` skill
 and the `msdmd/` parser/SKILL were vendored/refreshed from that commit so
 `ratios/ratios_check.py` can import `parse_ratios`/`ratios_placement` from the
 msdmd universal parser (the previously vendored parser predated them).
