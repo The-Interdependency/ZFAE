@@ -127,6 +127,5 @@ export default defineMsdmdCollection({
     }
   ],
   "gaps": [],
-  "repo": "zfae",
-  "source_commit": "c9ab788"
+  "repo": "zfae"
 });
